@@ -1,1 +1,6 @@
-console.log("Hello World")
+interface Employee {
+  name: string;
+  surname: string;
+  email: string;
+  birthDate: Date;
+}
